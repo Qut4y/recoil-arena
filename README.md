@@ -55,4 +55,4 @@ Built with Unity 6.
 
 ---
 
-<sub>This repository only presents the project. The game's source code is private.</sub>
+<sub>This repository only presents the project. The game is still in development, so its source code and unreleased content (modes, enemies, balance values) stay private until release.</sub>
